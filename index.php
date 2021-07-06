@@ -18,7 +18,7 @@
 <!--navbar-light bg-light-->
 <nav class="navbar navbar-expand-lg sticky-top nav_style" id="homeid">
   <div class="container-fluid px-3">
-    <a class="navbar-brand" href="index.php">Navbar</a>
+    <a class="navbar-brand" href="index.php">Covid 9-Teen</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span> <img src="https://img.icons8.com/material-rounded/24/ffffff/menu--v1.png"/></span>
     </button>
@@ -40,6 +40,7 @@
         <li class="nav-item">
           <a class="nav-link" href="#contactid">Contact</a>
         </li>
+   <!--
         <li class="nav-item dropdown">
             
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -48,10 +49,10 @@ Dropdown
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><a class="dropdown-item" href="#">Action</a></li>
             <li><a class="dropdown-item" href="#">Another action</a></li>
-           <!-- <<li><hr class="dropdown-divider"></li> -->
+            <<li><hr class="dropdown-divider"></li> 
             <li><a class="dropdown-item" href="#">Something else here</a></li>
           </ul>
-        </li>
+        </li>-->
       </ul>
     </div>
   </div>
@@ -320,7 +321,8 @@ Dropdown
     <!------- Footer ---> 
 
     <div class="footer">
-      <div class="footercr">I am vertically centered</div>
+      <div class="footercr">© 2020 Copyright:
+    <a href="https://salehahmed.carrd.co/"> MDBootstrap.com</a></div>
     </div>
 
 
