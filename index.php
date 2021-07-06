@@ -8,10 +8,9 @@
     <?php include 'includes/links.php'; ?>
     <?php include 'style/style.php';?> 
     <?php include 'style/footer.php';?> 
-    
-
+    <link rel="shortcut icon" type="image/jpg" href="images/favicon.png"/>
     <link rel="stylesheet" href="/bootstrap-5.0.2-dist/css/bootstrap.min.css">
-    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">  
+    
 </head>
 <body onload="fetch()">
 
