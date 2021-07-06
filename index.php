@@ -321,8 +321,8 @@ Dropdown
     <!------- Footer ---> 
 
     <div class="footer">
-      <div class="footercr">© 2020 Copyright:
-    <a href="https://salehahmed.carrd.co/"> MDBootstrap.com</a></div>
+      <div class="footercr">© 2021 Copyright:
+    <a href="https://salehahmed.carrd.co/"> Saleh Ahmed</a></div>
     </div>
 
 
