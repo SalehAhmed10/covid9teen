@@ -322,7 +322,7 @@ Dropdown
 
     <div class="footer">
       <div class="footercr">© 2021 Copyright:
-    <a href="https://salehahmed.carrd.co/"> Saleh Ahmed</a></div>
+    <a href="https://salehahmed.carrd.co/" target="_blank"> Saleh Ahmed</a></div>
     </div>
 
 
