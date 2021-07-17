@@ -335,7 +335,7 @@ Dropdown
 function fetch(){
     $.get("https://api.covid19api.com/summary",
 
-      function (data){
+      function(data){
           
           var tbval = document.getElementById('tbval');
           
